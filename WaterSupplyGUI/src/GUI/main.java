@@ -169,12 +169,12 @@ public class main extends JFrame {
         logout.setHorizontalAlignment(SwingConstants.CENTER);
         logout.setPreferredSize(new Dimension(100, 200));
         logout.setBackground(new Color(209, 81, 45));
-        Info = new JButton("See Information");
+        Info = new JButton("See Info");
         Info.setFont(new Font("Bell MT", Font.BOLD, 20));
         Info.setBackground(new Color(238, 209, 128));
         Info.setHorizontalAlignment(SwingConstants.CENTER);
         Info.setPreferredSize(new Dimension(100, 200));
-        help = new JButton("HELP");
+        help = new JButton("Help");
         help.setFont(new Font("Bell MT", Font.BOLD, 25));
         help.setBackground(new Color(238, 209, 128));
         help.setHorizontalAlignment(SwingConstants.CENTER);
